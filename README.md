@@ -93,7 +93,7 @@ The goal of the improvised glasses and our developed code is to get a first impr
 ### Concept
 The goal was to create an artificial conscience using the sensor data and privacy speakers of the Huawei Eyewear. As a proof on concept, we implemented the working, drinking and neck exercises like rotate head (clockwise and counter-clockwise) or stretch head (left, right, and front). Since we were quite unlucky during the Competition (package stuck in local customs and probably a shipping damaged gyroscope sensor), we could not implement a full working demo system.
 
-To demonstrate our concept, we produced and uploaded a video on YouTube: https://youtu.be/T3li2v96-FU
+To demonstrate our concept, we produced and uploaded a video on YouTube: https://youtu.be/jAtU6x7G4BE
 
 ### File descriptions
 - The file `mobilehci22-master.zip` includes the Android software files based on the SDK by Huawei. This project kann be opened in Android Studio.
