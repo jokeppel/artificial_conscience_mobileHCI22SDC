@@ -77,6 +77,8 @@ The goal of the improvised glasses and our developed code is to get a first impr
     - pyserial
 - `example_recording.csv` includes an example sensor recording file
 - `improvised_glasses/improvised_glasses_wiring.pdf` includes the wiring of the both modules
+- `improvised_glasses/training_model.ipynb` includes a jupyter notebook for preprocessing the data as well as training and saving a model
+- `improvised_glasses/live_predictor` includes a python script to do live predictions by loading the saved model and using the IMU data to predict gestures
 
 ---
 
@@ -99,7 +101,7 @@ To demonstrate our concept, we produced and uploaded a video on YouTube: https:/
 - The file `mobilehci22-master.zip` includes the Android software files based on the SDK by Huawei. This project kann be opened in Android Studio.
 - The file `python_huawei_eyewear_ML.ipynb` includes the python code for Shallow Classification and Deep Learning in a Jupyter Notebook file.
 - `app-debug.apk` is a precompiled Android file, which can be used to install the software on your personal mobile phone.
-- `example_overall_export.csv` is an example file to demonstrate the resulting file when selecting the option t export all sensor data to a .csv file.
+- `example_overall_export.csv` is an example file to demonstrate the resulting file when selecting the option to export all sensor data to a .csv file.
 
 
 ### Key features
