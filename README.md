@@ -27,7 +27,8 @@
     - [Python](#python)
   - [Implementation](#implementation)
     - [Android development](#android-development)
-      - [Userinterface overview](#userinterface-overview)
+    - [Userinterface overview](#userinterface-overview)
+    - [Python development](#python-development)
 - [License](#license)
   
 </details>
@@ -98,7 +99,6 @@ The goal was to create an artificial conscience using the sensor data and privac
 To demonstrate our concept, we produced and uploaded a video on YouTube: https://youtu.be/jAtU6x7G4BE
 
 ### File descriptions
-- The file `mobilehci22-master.zip` includes the Android software files based on the SDK by Huawei. This project kann be opened in Android Studio.
 - The file `python_huawei_eyewear_ML.ipynb` includes the python code for Shallow Classification and Deep Learning in a Jupyter Notebook file.
 - `app-debug.apk` is a precompiled Android file, which can be used to install the software on your personal mobile phone.
 - `example_overall_export.csv` is an example file to demonstrate the resulting file when selecting the option to export all sensor data to a .csv file.
